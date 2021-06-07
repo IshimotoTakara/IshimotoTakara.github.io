@@ -55,7 +55,7 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #737d6d;
+  color: #13b5dd91;
 }
 
 .lead {
@@ -75,7 +75,7 @@ li {
 }
 
 .header.active {
-  background-color: #737d6d;
+  background-color: #13bfdd;
 }
 
 .header-inner {
@@ -152,7 +152,7 @@ li {
   font-size: 24px;
   margin-bottom: 20px;
   text-align: center;
-  color: #737d6d;
+  color: #13bfdd;
 }
 
 .profile-text {
@@ -235,7 +235,7 @@ li {
   margin-top: 20px;
   margin-bottom: 10px;
   text-align: left;
-  color: #737d6d;
+  color: #13bfdd;
 }
 
 /*--------------------------------
@@ -277,7 +277,7 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #737d6d;
+  background-color: #13bfdd;
 }
 
 .copyright {
