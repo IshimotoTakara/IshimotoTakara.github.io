@@ -142,21 +142,10 @@ li {
 }
 
 /*--------------------------------
- プロフィール
+ About
 ---------------------------------*/
-.profile {
-  padding: 50px 0;
-}
-
-.profile-title {
-  font-size: 24px;
-  margin-bottom: 20px;
-  text-align: center;
-  color: #12adeb;
-}
-
-.profile-text {
-  max-width: 500px;
+.about-text {
+  max-width: 550px;
   margin: 0 auto;
 }
 
@@ -394,14 +383,6 @@ li {
   .sub-main-visual-img {
     height: 100px;
     background-image: url(../img/works-top.jpeg);
-  }
-
-  /* プロフィール */
-  .profile {
-    padding: 30px 0;
-  }
-  .profile-title {
-    font-size: 20px;
   }
 
   /* Works */
