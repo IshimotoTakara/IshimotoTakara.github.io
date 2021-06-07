@@ -9,7 +9,7 @@ body {
 a {
   transition: opacity .3s;
   text-decoration: none;
-  color: #1ca9e3;
+  color: #12adeb;
 }
 
 img {
@@ -55,7 +55,7 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #13b5dd91;
+  color: #12adeb;
 }
 
 .lead {
@@ -75,7 +75,7 @@ li {
 }
 
 .header.active {
-  background-color: #13bfdd;
+  background-color: #12adeb;
 }
 
 .header-inner {
@@ -152,7 +152,7 @@ li {
   font-size: 24px;
   margin-bottom: 20px;
   text-align: center;
-  color: #13bfdd;
+  color: #12adeb;
 }
 
 .profile-text {
@@ -235,7 +235,7 @@ li {
   margin-top: 20px;
   margin-bottom: 10px;
   text-align: left;
-  color: #13bfdd;
+  color: #12adeb;
 }
 
 /*--------------------------------
@@ -277,7 +277,7 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #13bfdd;
+  background-color: #12adeb;
 }
 
 .copyright {
