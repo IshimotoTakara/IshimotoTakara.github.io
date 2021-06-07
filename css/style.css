@@ -225,6 +225,14 @@ li {
   margin-bottom: 3px;
 }
 
+.skill-category {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+  color: #737d6d;
+}
+
 /*--------------------------------
  Contact
 ---------------------------------*/
