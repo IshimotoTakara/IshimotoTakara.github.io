@@ -244,19 +244,32 @@ li {
 .contact-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
+  margin-bottom: -50px;
 }
 
 .contact-item {
-  display: block;
-  margin: 0 20px;
-  text-align: center;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 48%;
+  margin-bottom: 50px;
 }
 
-.contact-text {
-  margin-top: 10px;
-  text-align: center;
+.contact-img {
+  width: 60px;
+  height: auto;
+  margin-bottom: 10px;
 }
+
+.contact-body {
+  flex: 1;
+}
+
+.contact-message {
+  margin-top: 10px;
+}
+
 /*--------------------------------
  ページトップ
 ---------------------------------*/
