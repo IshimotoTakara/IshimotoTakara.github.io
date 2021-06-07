@@ -117,20 +117,6 @@ li {
   opacity: .8;
 }
 
-.header-nav-icon:not(:last-child) {
-  margin-right: 10px;
-}
-
-.header-nav-icon a {
-  font-size: 18px;
-  padding: 5px 0;
-  letter-spacing: .1em;
-  color: #fff;
-}
-
-.header-nav-icon a:hover {
-  opacity: .8;
-}
 .header img{
   width: 28px;
   height: auto; 
