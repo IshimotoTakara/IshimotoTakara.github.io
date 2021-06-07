@@ -129,10 +129,10 @@ li {
 }
 
 .sub-main-visual-img {
-  height: 180px;
-  background-image: url(../img/mv.png);
+  height: 250px;
+  background-image: url(../img/works-top.jpeg);
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center 75%;
   background-size: cover;
 }
 
