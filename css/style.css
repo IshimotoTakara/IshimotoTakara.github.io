@@ -106,10 +106,6 @@ li {
   margin-right: 20px;
 }
 
-.header-nav-icon:not(:last-child) {
-  margin-right: 10px;
-}
-
 .header-nav-item a {
   font-size: 18px;
   padding: 5px 0;
@@ -121,6 +117,13 @@ li {
   opacity: .8;
 }
 
+.header-nav-icon:not(:last-child) {
+  margin-right: 10px;
+}
+
+.header-nav-icon a:hover {
+  opacity: .8;
+}
 .header img{
   width: 28px;
   height: auto; 
